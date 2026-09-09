@@ -5,7 +5,7 @@ Run multiple commands in parallel
 - **Upstream**: <https://github.com/pvolok/mprocs>
 - **Homepage**: <>
 - **Latest release**: `canary` (2026-06-06)
-- **Last commit**: 2026-09-05
+- **Last commit**: 2026-09-08
 - **License**: MIT
 - **Stars**: 2714 · **Forks**: 111 · **Open issues**: 170 · **Contributors**: 42
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/mprocs> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:04:30Z._
+_Last regenerated: 2026-09-09T05:18:23Z._
