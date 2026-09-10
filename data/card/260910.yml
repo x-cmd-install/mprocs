@@ -7,7 +7,7 @@ about:
   latestVersion: "canary"
   latestRelease: "v0.9.6"
   latestPrerelease: "canary"
-  collectedAt: 2026-09-10T16:57:19Z
+  collectedAt: 2026-09-10T21:39:55Z
 timeline:
   created: 2021-08-30
   lastCommit: 2026-09-08
@@ -86,7 +86,7 @@ total:
   commit: 547
 ---
 path: /home/runner/.x-repo/github.com/pvolok/mprocs
-collectedAt: 2026-09-10T16:57:22Z
+collectedAt: 2026-09-10T21:39:56Z
 loc:
   Rust:
     code: 26809
