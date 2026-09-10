@@ -4,7 +4,7 @@
 
 Run multiple commands in parallel
 
-![mprocs](https://repo.x-cmd.io/mprocs.svg)
+![mprocs](https://repo.x-cmd.io/mprocs.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,20 @@ x install mprocs
 - **最新版本**: `canary` (2026-06-06)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 5 个
-- **发布时间**: 2026-06-06T16:36:22Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [mprocs-0.9.6-darwin-aarch64.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.9.6/mprocs-0.9.6-darwin-aarch64.tar.gz) | 842.9 KiB | `native/darwin/arm64` |
+| [mprocs-0.9.6-darwin-x86_64.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.9.6/mprocs-0.9.6-darwin-x86_64.tar.gz) | 881.4 KiB | `native/darwin/x64` |
+| [mprocs-0.9.6-linux-aarch64-musl.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.9.6/mprocs-0.9.6-linux-aarch64-musl.tar.gz) | 1020.7 KiB | `native/linux/arm64/musl` |
+| [mprocs-0.9.6-linux-x86_64-musl.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.9.6/mprocs-0.9.6-linux-x86_64-musl.tar.gz) | 1.0 MiB | `native/linux/x64/musl` |
+| [mprocs-0.9.6-windows-x86_64.zip](https://github.com/pvolok/mprocs/releases/download/v0.9.6/mprocs-0.9.6-windows-x86_64.zip) | 844.1 KiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 2,716 · **Fork**: 111 · **开放 issue**: 170 · **贡献者**: 42
+- **Star**: 2,718 · **Fork**: 111 · **开放 issue**: 170 · **贡献者**: 42
 
 ## 累计统计
 
@@ -61,4 +70,4 @@ mprocs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:14:59Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:57:28Z._

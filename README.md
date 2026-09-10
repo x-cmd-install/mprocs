@@ -22,11 +22,20 @@ x install mprocs
 - **Latest**: `canary` (2026-06-06)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 5
-- **Published**: 2026-06-06T16:36:22Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [mprocs-0.9.6-darwin-aarch64.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.9.6/mprocs-0.9.6-darwin-aarch64.tar.gz) | 842.9 KiB | `native/darwin/arm64` |
+| [mprocs-0.9.6-darwin-x86_64.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.9.6/mprocs-0.9.6-darwin-x86_64.tar.gz) | 881.4 KiB | `native/darwin/x64` |
+| [mprocs-0.9.6-linux-aarch64-musl.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.9.6/mprocs-0.9.6-linux-aarch64-musl.tar.gz) | 1020.7 KiB | `native/linux/arm64/musl` |
+| [mprocs-0.9.6-linux-x86_64-musl.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.9.6/mprocs-0.9.6-linux-x86_64-musl.tar.gz) | 1.0 MiB | `native/linux/x64/musl` |
+| [mprocs-0.9.6-windows-x86_64.zip](https://github.com/pvolok/mprocs/releases/download/v0.9.6/mprocs-0.9.6-windows-x86_64.zip) | 844.1 KiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 2,716 · **Forks**: 111 · **Open issues**: 170 · **Contributors**: 42
+- **Stars**: 2,718 · **Forks**: 111 · **Open issues**: 170 · **Contributors**: 42
 
 ## Totals (cumulative)
 
@@ -57,8 +66,8 @@ Total: **27,961** lines of code across **136** files in the top 5 languages.
 Install metadata for mprocs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mprocs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/mprocs.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/mprocs.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:14:59Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:57:28Z._
