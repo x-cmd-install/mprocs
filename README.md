@@ -14,14 +14,14 @@ x install mprocs
 
 ## Code insight
 
-Total: **36,699** lines of code across **159** files in the top 5 languages.
+Total: **36,816** lines of code across **159** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 35,253 | 909 | 3,388 | 147 |
+| Rust | 35,371 | 924 | 3,410 | 147 |
 | Json | 764 | 0 | 0 | 4 |
 | JavaScript | 188 | 8 | 30 | 2 |
-| TypeScript | 179 | 51 | 6 | 1 |
+| TypeScript | 178 | 50 | 6 | 1 |
 | Toml | 108 | 7 | 15 | 5 |
 
 ## Source
@@ -32,27 +32,27 @@ Total: **36,699** lines of code across **159** files in the top 5 languages.
 ## Release
 
 - **Latest**: `canary` (2026-06-06)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-26
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 2,728 · **Forks**: 112 · **Open issues**: 170 · **Contributors**: 42
+- **Stars**: 2,730 · **Forks**: 112 · **Open issues**: 170 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 53 · **Open PRs**: 2 · **Closed issues**: 103 · **Open issues**: 67 · **Commits**: 561
+- **Releases**: 32 · **Merged PRs**: 53 · **Open PRs**: 2 · **Closed issues**: 103 · **Open issues**: 67 · **Commits**: 564
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-28 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-28 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-30 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-01 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-06 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-28 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-29 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-29 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-31 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-02 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-07 | 15 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for mprocs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:20:42Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:44:58Z._
