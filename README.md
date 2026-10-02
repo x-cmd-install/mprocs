@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Run multiple commands in parallel
+Process manager for dev and prod
 
 [![x-cmd/install — mprocs Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mprocs.svg)](https://x-cmd.com/install/mprocs)
 
@@ -27,32 +27,33 @@ Total: **43,235** lines of code across **178** files in the top 5 languages.
 ## Source
 
 - **Upstream**: <https://github.com/pvolok/mprocs>
+- **Homepage**: <https://dekit.run/>
 - **License**: MIT
 
 ## Release
 
 - **Latest**: `canary` (2026-09-28)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-10-01
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 2,735 · **Forks**: 112 · **Open issues**: 172 · **Contributors**: 42
+- **Stars**: 2,735 · **Forks**: 112 · **Open issues**: 173 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 53 · **Open PRs**: 2 · **Closed issues**: 104 · **Open issues**: 68 · **Commits**: 585
+- **Releases**: 32 · **Merged PRs**: 53 · **Open PRs**: 2 · **Closed issues**: 104 · **Open issues**: 69 · **Commits**: 586
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-02 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-03 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-04 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-06 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-11 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-02 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-03 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-04 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-05 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-07 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-12 | 15 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -76,4 +77,4 @@ Install metadata for mprocs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:25:31Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:03:27Z._
