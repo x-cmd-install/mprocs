@@ -14,11 +14,11 @@ x install mprocs
 
 ## Code insight
 
-Total: **45,064** lines of code across **184** files in the top 5 languages.
+Total: **46,706** lines of code across **188** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 42,097 | 1,090 | 3,778 | 160 |
+| Rust | 43,739 | 1,140 | 3,904 | 164 |
 | Json | 1,254 | 0 | 0 | 5 |
 | JavaScript | 688 | 8 | 74 | 11 |
 | Python | 391 | 8 | 73 | 2 |
@@ -33,27 +33,27 @@ Total: **45,064** lines of code across **184** files in the top 5 languages.
 ## Release
 
 - **Latest**: `canary` (2026-10-08)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-10
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 2,747 · **Forks**: 114 · **Open issues**: 173 · **Contributors**: 42
+- **Stars**: 2,747 · **Forks**: 115 · **Open issues**: 173 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 53 · **Open PRs**: 2 · **Closed issues**: 104 · **Open issues**: 69 · **Commits**: 592
+- **Releases**: 33 · **Merged PRs**: 53 · **Open PRs**: 1 · **Closed issues**: 106 · **Open issues**: 67 · **Commits**: 595
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-11 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-12 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-13 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-15 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-20 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-11 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-12 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-13 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-14 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-16 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-21 | 16 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for mprocs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:12:20Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:11:16Z._
