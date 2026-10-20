@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2061828,
       "digest": "sha256:51a3b0ed9ab65283ff9e216b4e12f69dfd62682fda69a357e59013383ee9c313",
-      "download_count": 101,
+      "download_count": 138,
       "created_at": "2026-10-11T19:25:17Z",
       "updated_at": "2026-10-11T19:25:17Z",
       "browser_download_url": "https://github.com/pvolok/dekit/releases/download/v0.10.2/dekit-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2312150,
       "digest": "sha256:b522ab96d03829b44013a141801220f4830c0cb9ca2a93d7d08798eeb28defa9",
-      "download_count": 354,
+      "download_count": 475,
       "created_at": "2026-10-11T19:25:17Z",
       "updated_at": "2026-10-11T19:25:17Z",
       "browser_download_url": "https://github.com/pvolok/dekit/releases/download/v0.10.2/dekit-aarch64-unknown-linux-musl.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2149783,
       "digest": "sha256:69fab0205ea537d2efad0918b14959c6c8e413abbfe431d790648d7f737c8b1c",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-11T19:25:17Z",
       "updated_at": "2026-10-11T19:25:17Z",
       "browser_download_url": "https://github.com/pvolok/dekit/releases/download/v0.10.2/dekit-x86_64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2192863,
       "digest": "sha256:60c60da3b2e0e273fde15ce31f2ab733989f83278bb71d70f219e0f75b6577d5",
-      "download_count": 100,
+      "download_count": 105,
       "created_at": "2026-10-11T19:25:17Z",
       "updated_at": "2026-10-11T19:25:17Z",
       "browser_download_url": "https://github.com/pvolok/dekit/releases/download/v0.10.2/dekit-x86_64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2389597,
       "digest": "sha256:964672af1c68f6c60a0eac3aca2b3d9847060fcc5a287747e084e84e10505a1b",
-      "download_count": 1429,
+      "download_count": 1847,
       "created_at": "2026-10-11T19:25:17Z",
       "updated_at": "2026-10-11T19:25:18Z",
       "browser_download_url": "https://github.com/pvolok/dekit/releases/download/v0.10.2/dekit-x86_64-unknown-linux-musl.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 664,
       "digest": "sha256:320bad74fa2b4aded360ae2000761b0f836ed1bda05d12be9b8e82bad7b07f87",
-      "download_count": 81,
+      "download_count": 93,
       "created_at": "2026-10-11T19:25:17Z",
       "updated_at": "2026-10-11T19:25:17Z",
       "browser_download_url": "https://github.com/pvolok/dekit/releases/download/v0.10.2/SHA256SUMS"
