@@ -14,12 +14,12 @@ x install mprocs
 
 ## Code insight
 
-Total: **78,562** lines of code across **245** files in the top 5 languages.
+Total: **79,421** lines of code across **247** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 73,895 | 1,749 | 5,788 | 211 |
-| Json | 2,105 | 0 | 0 | 6 |
+| Rust | 74,750 | 1,775 | 5,853 | 213 |
+| Json | 2,109 | 0 | 0 | 6 |
 | Python | 1,192 | 15 | 173 | 16 |
 | JavaScript | 688 | 8 | 74 | 11 |
 | TypeScript | 226 | 63 | 9 | 1 |
@@ -32,41 +32,41 @@ Total: **78,562** lines of code across **245** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `canary` (2026-10-11)
-- **Last commit**: 2026-10-22
+- **Latest**: `v0.10.3` (2026-10-25)
+- **Last commit**: 2026-10-25
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 2,770 · **Forks**: 115 · **Open issues**: 178 · **Contributors**: 44
+- **Stars**: 2,772 · **Forks**: 115 · **Open issues**: 178 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 53 · **Open PRs**: 1 · **Closed issues**: 119 · **Open issues**: 59 · **Commits**: 607
+- **Releases**: 35 · **Merged PRs**: 53 · **Open PRs**: 1 · **Closed issues**: 119 · **Open issues**: 59 · **Commits**: 610
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-26 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-27 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-28 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-30 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-04 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-26 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-27 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-28 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-29 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-31 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-05 | 18 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [dekit-aarch64-apple-darwin.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.10.2/dekit-aarch64-apple-darwin.tar.gz) | 2.0 MiB | `native/darwin/arm64` |
-| [dekit-aarch64-unknown-linux-musl.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.10.2/dekit-aarch64-unknown-linux-musl.tar.gz) | 2.2 MiB | `native/linux/arm64/musl` |
-| [dekit-x86_64-apple-darwin.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.10.2/dekit-x86_64-apple-darwin.tar.gz) | 2.1 MiB | `native/darwin/x64` |
-| [dekit-x86_64-pc-windows-msvc.zip](https://github.com/pvolok/mprocs/releases/download/v0.10.2/dekit-x86_64-pc-windows-msvc.zip) | 2.1 MiB | `native/win/x64` |
-| [dekit-x86_64-unknown-linux-musl.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.10.2/dekit-x86_64-unknown-linux-musl.tar.gz) | 2.3 MiB | `native/linux/x64/musl` |
-| [install.ps1](https://github.com/pvolok/mprocs/releases/download/v0.10.2/install.ps1) | 4.6 KiB | `other` |
-| [install.sh](https://github.com/pvolok/mprocs/releases/download/v0.10.2/install.sh) | 3.2 KiB | `other` |
-| [SHA256SUMS](https://github.com/pvolok/mprocs/releases/download/v0.10.2/SHA256SUMS) | 664 B | `other` |
+| [dekit-aarch64-apple-darwin.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.10.3/dekit-aarch64-apple-darwin.tar.gz) | 2.5 MiB | `native/darwin/arm64` |
+| [dekit-aarch64-unknown-linux-musl.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.10.3/dekit-aarch64-unknown-linux-musl.tar.gz) | 2.8 MiB | `native/linux/arm64/musl` |
+| [dekit-x86_64-apple-darwin.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.10.3/dekit-x86_64-apple-darwin.tar.gz) | 2.6 MiB | `native/darwin/x64` |
+| [dekit-x86_64-pc-windows-msvc.zip](https://github.com/pvolok/mprocs/releases/download/v0.10.3/dekit-x86_64-pc-windows-msvc.zip) | 2.7 MiB | `native/win/x64` |
+| [dekit-x86_64-unknown-linux-musl.tar.gz](https://github.com/pvolok/mprocs/releases/download/v0.10.3/dekit-x86_64-unknown-linux-musl.tar.gz) | 2.9 MiB | `native/linux/x64/musl` |
+| [install.ps1](https://github.com/pvolok/mprocs/releases/download/v0.10.3/install.ps1) | 4.6 KiB | `other` |
+| [install.sh](https://github.com/pvolok/mprocs/releases/download/v0.10.3/install.sh) | 3.2 KiB | `other` |
+| [SHA256SUMS](https://github.com/pvolok/mprocs/releases/download/v0.10.3/SHA256SUMS) | 664 B | `other` |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for mprocs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:09:48Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:08:40Z._
