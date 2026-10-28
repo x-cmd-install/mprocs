@@ -1,13 +1,14 @@
-- repo: aur
+- repo: alpine_3_24
+  subrepo: community
   srcname: mprocs
   binname: mprocs
   visiblename: mprocs
-  version: 0.10.2
-  origversion: 0.10.2-1
-  status: newest
-  summary: Run multiple commands in parallel (now dekit; installs both dekit and mprocs)
+  version: 0.6.4
+  origversion: 0.6.4-r1
+  status: outdated
+  summary: Run multiple commands in parallel
   maintainers:
-    - 1995parham@aur
+    - jakub@jirutka.cz
   licenses:
     - MIT
 - repo: alpine_3_17
@@ -101,19 +102,6 @@
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: mprocs
-  binname: mprocs
-  visiblename: mprocs
-  version: 0.6.4
-  origversion: 0.6.4-r1
-  status: outdated
-  summary: Run multiple commands in parallel
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
 - repo: alpine_edge
   subrepo: community
   srcname: mprocs
@@ -143,6 +131,18 @@
     - MIT
   categories:
     - Development/Tools
+- repo: aur
+  srcname: mprocs
+  binname: mprocs
+  visiblename: mprocs
+  version: 0.10.3
+  origversion: 0.10.3-1
+  status: newest
+  summary: Run multiple commands in parallel (now dekit; installs both dekit and mprocs)
+  maintainers:
+    - 1995parham@aur
+  licenses:
+    - MIT
 - repo: nix_stable_24_05
   srcname: mprocs
   visiblename: mprocs
