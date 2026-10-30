@@ -14,11 +14,11 @@ x install mprocs
 
 ## Code insight
 
-Total: **79,421** lines of code across **247** files in the top 5 languages.
+Total: **79,503** lines of code across **247** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 74,750 | 1,775 | 5,853 | 213 |
+| Rust | 74,832 | 1,775 | 5,860 | 213 |
 | Json | 2,109 | 0 | 0 | 6 |
 | Python | 1,192 | 15 | 173 | 16 |
 | JavaScript | 688 | 8 | 74 | 11 |
@@ -32,28 +32,28 @@ Total: **79,421** lines of code across **247** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.10.3` (2026-10-25)
-- **Last commit**: 2026-10-25
+- **Latest**: `canary` (2026-10-25)
+- **Last commit**: 2026-10-29
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 2,782 · **Forks**: 116 · **Open issues**: 180 · **Contributors**: 44
+- **Stars**: 2,783 · **Forks**: 116 · **Open issues**: 180 · **Contributors**: 45
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 53 · **Open PRs**: 1 · **Closed issues**: 133 · **Open issues**: 47 · **Commits**: 610
+- **Releases**: 35 · **Merged PRs**: 53 · **Open PRs**: 1 · **Closed issues**: 134 · **Open issues**: 46 · **Commits**: 611
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-31 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-02 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-03 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-08 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-30 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-31 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-01 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-03 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-04 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-09 | 18 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for mprocs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:10:49Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:14:08Z._
