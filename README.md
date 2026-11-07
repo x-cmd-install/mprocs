@@ -38,7 +38,7 @@ Total: **79,503** lines of code across **247** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,792 · **Forks**: 117 · **Open issues**: 180 · **Contributors**: 45
+- **Stars**: 2,796 · **Forks**: 117 · **Open issues**: 180 · **Contributors**: 45
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **79,503** lines of code across **247** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-08 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-10 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-11 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-16 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-08 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-09 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-11 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-12 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-17 | 18 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -68,15 +68,6 @@ Total: **79,503** lines of code across **247** files in the top 5 languages.
 | [install.sh](https://github.com/pvolok/mprocs/releases/download/v0.10.3/install.sh) | 3.2 KiB | `other` |
 | [SHA256SUMS](https://github.com/pvolok/mprocs/releases/download/v0.10.3/SHA256SUMS) | 664 B | `other` |
 
-## Distribution status
-
-Reported by **18** distros on [repology.org](https://repology.org/project/mprocs). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.9.6` | ⚠️ outdated |
-| Alpine edge | `0.6.4` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for mprocs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mprocs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +77,4 @@ Install metadata for mprocs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:13:31Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:31:59Z._
