@@ -1,10 +1,10 @@
-- repo: alpine_3_24
+- repo: alpine_edge
   subrepo: community
   srcname: mprocs
   binname: mprocs
   visiblename: mprocs
   version: 0.6.4
-  origversion: 0.6.4-r1
+  origversion: 0.6.4-r2
   status: outdated
   summary: Run multiple commands in parallel
   maintainers:
@@ -102,7 +102,7 @@
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: alpine_edge
+- repo: alpine_3_24
   subrepo: community
   srcname: mprocs
   binname: mprocs
