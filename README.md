@@ -38,7 +38,7 @@ Total: **84,344** lines of code across **258** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,815 · **Forks**: 119 · **Open issues**: 181 · **Contributors**: 45
+- **Stars**: 2,817 · **Forks**: 120 · **Open issues**: 181 · **Contributors**: 45
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **84,344** lines of code across **258** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-22 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-25 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-30 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-23 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-26 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-01 | 18 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for mprocs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:09:09Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:34:23Z._
